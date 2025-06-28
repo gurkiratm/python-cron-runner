@@ -4,7 +4,7 @@ Run any Python script on a custom cron schedule with environment-based control a
 
 Docker Image: [`gurkiratm/python-cron`](https://hub.docker.com/r/gurkiratm/python-cron)
 
-Pull commnad:  `docker pull gurkiratm/python-cron:v1.0`
+Pull command:  `docker pull gurkiratm/python-cron:latest`
 
 ---
  
@@ -56,7 +56,7 @@ docker run --rm \
   -e CRON_SCHEDULE="*/10 * * * *" \
   -e REQUIREMENTS_FILE="/data/requirements.txt" \
   -e LOG_FILE_PATH="myscript.logs" \
-  gurkiratsingh/python-cron-runner
+  gurkiratm/python-cron
 ```
 
 ---
