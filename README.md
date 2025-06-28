@@ -4,7 +4,10 @@ Run any Python script on a custom cron schedule with environment-based control a
 
 Docker Image: [`gurkiratm/python-cron`](https://hub.docker.com/r/gurkiratm/python-cron)
 
-Pull command:  `docker pull gurkiratm/python-cron:latest`
+Pull command:  
+```
+docker pull gurkiratm/python-cron:latest
+```
 
 ---
  
