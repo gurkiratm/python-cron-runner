@@ -3,7 +3,8 @@
 Run any Python script on a custom cron schedule with environment-based control and logging.
 
 Docker Image: [`gurkiratm/python-cron`](https://hub.docker.com/r/gurkiratm/python-cron)
-Pull commnad:  'docker pull gurkiratm/python-cron:v1.0'
+
+Pull commnad:  `docker pull gurkiratm/python-cron:v1.0`
 
 ---
  
