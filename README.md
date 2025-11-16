@@ -86,4 +86,3 @@ docker logs <container-name>
 
 ## 👨‍💻 Maintainer
 Gurkirat Singh
-📧 gurkiratsingh8321@gmail.com
